@@ -1,0 +1,21 @@
+.products{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+    margin-left: 10px;
+}
+.product-name{
+    font-weight: 400;
+    color: rgb(16, 96, 224);
+}
+.cart-btn{
+    border: 1px solid aliceblue;
+    background-color: rgb(210, 233, 7);
+    padding: 8px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}

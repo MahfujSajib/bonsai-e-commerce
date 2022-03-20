@@ -1,0 +1,12 @@
+.navs-link{
+    font-size: 22px;
+    padding: 10px;
+    margin: 15px;
+    color: white;
+}
+.bg-nav{
+    background-color: rgb(20, 83, 112);
+}
+.navs-link:hover{
+    color: aquamarine;
+}
